@@ -44,7 +44,7 @@ function Work() {
         <span className="text-green-200">P</span>rojects
       </h1>
 
-      <div className="flex justify-center items-center show-icon">
+      <div className="flex justify-center items-center show-icon mt-14">
         <img className="w-600 rounded-md" src="../images/a.avif" alt="" />
 
         <div className="absolute hide-icon">
